@@ -1,7 +1,7 @@
 Dados do aluno
 
 -Primeiro Nome: Douglas Liandi
--Profissão: Analista de Testes
+-Profissão: Analista de Testes Jr.
 -Cidade: Osasco
 -O que faz nas horas vaga: Gosto de estudar e ficar com minha família.
 -Feedback sobre o curso Qualidade de Software: Estou amando e curtindo cada aprendizagem.
